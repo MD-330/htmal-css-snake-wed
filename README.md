@@ -25,3 +25,4 @@ Because this template uses Vite to build your code, you can add install and use 
 ## Learn More
 
 Check out [the vite docs](https://vitejs.dev) to learn more about configuring a frontend application."# htmal-css-snake-wed" 
+"# htmal-css-snake-wed" 
